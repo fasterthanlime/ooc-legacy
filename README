@@ -26,7 +26,7 @@ platform).
 ooc's primary implementation is written in Java, for portability.
 A project to write an ooc compiler in ooc itself, called 'rock', has
 been launched on GitHub recently.
-Stay tuned at: http://github.com/amoswenger/rock
+Stay tuned at: http://github.com/nddrylliog/rock
 
 The standard library aims to be small, fast, portable, and modular. 
 For now it contains file reading/writing classes, time classes, process 
@@ -42,14 +42,14 @@ good candidate for the next language you want to learn and fiddle with.
 
 I'm really to discussion about language design/implementation, etc. 
 and I'd really appreciate feedback about ooc, so don't hesitate to 
-contact me at amoswenger@gmail.com.
+contact me at ndd@rylliog.cz
 
 Resources:
 ==========
 
  - http://ooc-lang.org/                         Official website
  - http://ooc-lang.org/doc/langref/book1.htm    Language Reference guide
- - http://github.com/amoswenger/ooc             Git repository
+ - http://github.com/nddrylliog/rock            Git repository
    
 Enjoy!
 
